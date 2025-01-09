@@ -5,6 +5,8 @@
 [Jonghyun Choi](https://ppolon.github.io) \
 [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)
 
+[![paper](https://img.shields.io/badge/Paper-Arxiv-green)](https://arxiv.org/abs/2412.17288)
+
 Our codebase is largely built on [FILM](https://github.com/soyeonm/FILM) and [CAPEAM](https://github.com/snumprlab/capeam)
 ## Environment
 
